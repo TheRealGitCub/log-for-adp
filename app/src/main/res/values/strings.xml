@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Log for ADP</string>
+    <string name="status_clocked_in">Clocked In</string>
+    <string name="status_clocked_out">Clocked Out</string>
+    <string name="action_clock_in">Clock In</string>
+    <string name="action_clock_out">Clock Out</string>
+    <string name="status_unknown">Unknown</string>
+    <string name="action_clock_in_out">Clock In/Out</string>
+    <string name="info_hours_today">Hours Today</string>
+    <string name="info_hours_period">Hours This Period</string>
+    <string name="abbr_hours">hr</string>
+    <string name="abbr_minutes">min</string>
+    <string name="hours">hours</string>
+    <string name="minutes">minutes</string>
+    <string name="status_since_time">Since %1$s</string>
+    <string name="info_hours_value">%1$d hr %2$d min</string>
+    <string name="confirm_clock_in">Are you sure you would like to clock in now? This cannot be undone.</string>
+    <string name="confirm_clock_out">Are you sure you would like to clock out now? This cannot be undone.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="loading">Loading...</string>
+</resources>
